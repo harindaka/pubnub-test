@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^2.9.0",
+    "keypress": "^0.2.1",
     "pubnub": "^4.6.0",
     "readline-sync": "^1.4.7"
   }
